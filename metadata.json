@@ -1,0 +1,7 @@
+{
+  "name": "AI Hairstyle Previewer",
+  "description": "Transform your look instantly with Gemini-powered hairstyle simulations. Upload a photo and explore various cuts and lengths while keeping your facial identity intact.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
